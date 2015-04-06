@@ -1,0 +1,3 @@
+[submodule "ROS/frobomind"]
+	path = ROS/frobomind
+	url = https://github.com/tinymobilerobots/frobomind.git
